@@ -1,2 +1,4 @@
 # Netflix
-Netflix Descriptive Analysis
+![Screenshot](images.png)
+
+### Netflix Descriptive Analysis
